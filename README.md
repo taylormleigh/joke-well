@@ -7,4 +7,4 @@ Joke Well is an endless well of jokes to help you tell jokes endlessly well! It 
 
 ## Live Demo
 
-[Click Here](https://jokewell.vercel.app/) for a live demo of this amazing App!
+[Click Here](https://joke-well.vercel.app/) for a live demo of this amazing App!
