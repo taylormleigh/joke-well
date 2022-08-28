@@ -1,13 +1,12 @@
 {
-  "name": "Tay-Huval-React-Assessment",
+  "name": "joke-well",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "cypress": "cypress open"
+    "lint": "next lint"
   },
   "dependencies": {
     "next": "12.2.5",
@@ -15,7 +14,6 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "cypress": "^10.6.0",
     "eslint": "8.23.0",
     "eslint-config-next": "12.2.5"
   }
