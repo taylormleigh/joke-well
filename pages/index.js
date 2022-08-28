@@ -36,7 +36,7 @@ class Home extends React.Component {
           });
         });
         this.setState({isLoading:false});
-       },500); //uncomment this SetTimeout to view loading screen
+       },500); //This SetTimeout exists only for assessment purposes (to view the loading screen)
     });
 
   }
